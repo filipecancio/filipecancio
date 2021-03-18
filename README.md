@@ -9,6 +9,7 @@
     </p>
   <p>
     Este espaço está cheio de ideias geniosas, algumas inacabadas, talvez mas sempre rumo ao crescimento. Espero que possa te ajudar em alguma coisa e que você também me ajude. Vamos fazer esse networking e tornar a tecnologia uma ferramenta do bem.💙
+  
   </p>
   </div>
 
