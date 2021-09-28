@@ -4,9 +4,6 @@
 <img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
   <div align="left">
-    <p>
-      O processso de desenvolvimento poder ser cansativo mas não existe nada tão maravilhoso quanto criar algo novo, que faça um diferencial na sua vida e da comunidade e isso, a gente sabe fazer bem. Quer dizer, depois de algumas correções de bugs e code review, sim a gente faz bem.
-    </p>
   <p>
     Este espaço está cheio de ideias geniosas, algumas inacabadas, talvez mas sempre rumo ao crescimento. Espero que possa te ajudar em alguma coisa e que você também me ajude. Vamos fazer esse networking e tornar a tecnologia uma ferramenta do bem.💙
   
