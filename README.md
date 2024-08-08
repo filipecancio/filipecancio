@@ -8,7 +8,7 @@
 [![devto](https://img.shields.io/badge/dev.to-profile-green?colorA=171717&colorB=000000&style=for-the-badge)](https://dev.to/cancio)
 [![rocketseat](https://img.shields.io/badge/rocketseat-profile-green?colorA=012308&colorB=001505&style=for-the-badge)](https://app.rocketseat.com.br/me/cancio)
 
-<img align="right" width="400px" src="https://mscompservices.com/wp-content/uploads/2020/07/WebDesignDevelopmentVector.png"/>
+<img align="right" width="400px" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png"/>
 
   <div align="left">
   <p>
