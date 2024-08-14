@@ -1,5 +1,7 @@
-# ![image](https://github.com/user-attachments/assets/933f7b09-cdf7-48ef-9788-83e744aced38)
-My name is **Filipe Cancio** you can see my Resume ✨[here](https://github.com/filipecancio/filipecancio/releases/latest)✨
+# ![image](https://github.com/user-attachments/assets/8e300507-a4d1-4221-a07f-88946a795e6e)
+
+
+My name is **Filipe Cancio** you can see my Resume ✨[here](https://github.com/filipecancio/filipecancio/releases/latest)✨ but here on my profile you will already find a lot of information about my work.
 
 [![GitHub release (latest by date)](https://img.shields.io/badge/resume-pdf-green?colorA=171717&colorB=000000&style=for-the-badge)](https://github.com/filipecancio/filipecancio/releases/latest)
 [![cancio-dev](https://img.shields.io/badge/cancio--dev-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://cancio.dev/)
