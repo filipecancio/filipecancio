@@ -1,4 +1,6 @@
-# Filipe Soares Cancio
+# ![image](https://github.com/user-attachments/assets/933f7b09-cdf7-48ef-9788-83e744aced38)
+My name is **Filipe Cancio** you can see my Resume ✨[here](https://github.com/filipecancio/filipecancio/releases/latest)✨
+
 [![GitHub release (latest by date)](https://img.shields.io/badge/resume-pdf-green?colorA=171717&colorB=000000&style=for-the-badge)](https://github.com/filipecancio/filipecancio/releases/latest)
 [![cancio-dev](https://img.shields.io/badge/cancio--dev-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://cancio.dev/)
 [![Dev Panic](https://img.shields.io/badge/dev--panic-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/channel/UC3kZydNxohr7-PHniplgC1Q)
@@ -7,8 +9,6 @@
 [![figma](https://img.shields.io/badge/figma-profile-green?colorA=353739&colorB=1B1D20&style=for-the-badge)](https://www.figma.com/@cancitoo)
 [![devto](https://img.shields.io/badge/dev.to-profile-green?colorA=171717&colorB=000000&style=for-the-badge)](https://dev.to/cancio)
 [![rocketseat](https://img.shields.io/badge/rocketseat-profile-green?colorA=012308&colorB=001505&style=for-the-badge)](https://app.rocketseat.com.br/me/cancio)
-
-<img align="right" width="400px" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png"/>
 
   <div align="left">
   <p>
