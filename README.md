@@ -7,7 +7,7 @@ My name is **Filipe Cancio** you can see **my Resume** ✨[at this link](https:/
 I am a Software Engineer working as a Senior Android Developer for **AccessPlay**, **Dactive** and others application companies as a freelancer. I worked for 4 years with Kotlin and android technologies and I love all the solutions for Mobile development. I have a lot of projets but not only for phones. Here on my GitHub you will find, phython projects, sites with ReactJS, NodeJS apis, computer programs with KMS and others stuffs. If want to know more about my personal lifestyle you can follow me on my [instagram](https://www.instagram.com/cancitoo/), [x](https://x.com/cancitoo) or [LinkedIn](https://www.linkedin.com/in/filipecancio/)
 
 I have some links with programming content if you want know more about my professional skills:
-- **YouTube Channel**: with a lot of contents about mobiles app, python solutions and security.See here at [Cancio Dev]([https://cancio.dev/](https://www.youtube.com/channel/UC3kZydNxohr7-PHniplgC1Q)
+- **YouTube Channel**: with a lot of contents about mobiles app, python solutions and security.See here at [Cancio Dev](https://www.youtube.com/channel/UC3kZydNxohr7-PHniplgC1Q)
 - **Figma Comunity**: with some desing protifolios. See at this [link](https://www.figma.com/@cancitoo)
 - **Dev.to**: My profile with some articles about technology. At this [link](https://dev.to/cancio)
   
