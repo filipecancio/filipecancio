@@ -11,3 +11,7 @@ If want to know more about my personal lifestyle you can follow me on my [instag
 I have some links with programming content if you want know more about my professional skills: [Cancio Dev | Youtube Channel](https://www.youtube.com/channel/UC3kZydNxohr7-PHniplgC1Q),  [Figma Comunity](https://www.figma.com/@cancitoo) and my [Dev.to](https://dev.to/cancio)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecancio&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projects with video
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
