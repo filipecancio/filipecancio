@@ -8,7 +8,7 @@ I am a Software Engineer working as a Senior Android Developer for **AccessPlay*
 
 If want to know more about my personal lifestyle you can follow me on my [instagram](https://www.instagram.com/cancitoo/), [x](https://x.com/cancitoo) or [LinkedIn](https://www.linkedin.com/in/filipecancio/)
 
-I have some links with programming content if you want know more about my professional skills: [Cancio Dev | Youtube Channel](https://www.youtube.com/channel/UC3kZydNxohr7-PHniplgC1Q),  [Figma Comunity](https://www.figma.com/@cancitoo) and my [Dev.to](https://dev.to/cancio)
+I have some links with programming content if you want know more about my professional skills: [Cancio Dev | Youtube Channel](https://www.youtube.com/channel/UC3kZydNxohr7-PHniplgC1Q),  [Figma Comunity](https://www.figma.com/@cancitoo) and my [Dev.to](https://dev.to/cancio). Or you can see my [leetcode solved challenges](https://leetcode.com/u/cancitoo/) too.
 
 ### Projects
 
