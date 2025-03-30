@@ -1,4 +1,7 @@
-# ![image](https://github.com/user-attachments/assets/8e300507-a4d1-4221-a07f-88946a795e6e)
+<!--# ![image](https://github.com/user-attachments/assets/8e300507-a4d1-4221-a07f-88946a795e6e)-->
+![neew](https://github.com/user-attachments/assets/478cd780-43b3-40b2-a93f-82df1cb4e477)
+
+
 
 
 My name is **Filipe Cancio** you can see **my Resume** ✨[at this link](https://github.com/filipecancio/filipecancio/releases/latest)✨ but here on my profile you will already find a lot of information about my work.
